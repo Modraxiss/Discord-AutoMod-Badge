@@ -1,12 +1,9 @@
 <div align = "center">
 
-# Discord Automod Badge <img src="https://github.com/Modraxis/Discord-AutoMod/assets/117416934/4345b092-0d14-4dc3-b8b4-a766054fb891" width="30" alt="img">
+# <img src="https://github.com/Modraxiss/Discord-AutoMod-Badge/blob/main/assets/Auto-Mod%20Badge.png" width="30" alt="emoji"> Discord Automod Badge <img src="https://github.com/Modraxiss/Discord-AutoMod-Badge/blob/main/assets/Auto-Mod%20Badge.png" width="30" alt="emoji">
 
-<img src="https://github.com/Modraxis/Discord-AutoMod/assets/117416934/28676d63-ddf8-40e8-9087-03f0ce3931d0" width="800" alt="img">
-
-<br>
+<img src="https://github.com/Modraxiss/Discord-AutoMod-Badge/blob/main/assets/Repo%20Banner.png" alt="banner">
 </div>
-This repository provides a solution to obtain an Automod badge for your Discord bot.
 
 ## Table of Contents
 - [Setup](#setup)
