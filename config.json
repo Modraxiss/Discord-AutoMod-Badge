@@ -1,7 +1,7 @@
 {
     "prefix": "!",
-    "Assistant": {
-        "TOKEN": "",
-        "ID": ""
+    "client": {
+        "TOKEN": "Your-Bot-Token",
+        "ID": "Your-Bot-ID"
     }
 }
