@@ -1,6 +1,6 @@
 <div align = "center">
 
-# <img src="https://github.com/Modraxis/Discord-AutoMod/assets/117416934/4345b092-0d14-4dc3-b8b4-a766054fb891" width="30" alt="img"> Discord Uses Automod Badge <img src="https://github.com/Modraxis/Discord-AutoMod/assets/117416934/4345b092-0d14-4dc3-b8b4-a766054fb891" width="30" alt="img">
+# Discord Automod Badge <img src="https://github.com/Modraxis/Discord-AutoMod/assets/117416934/4345b092-0d14-4dc3-b8b4-a766054fb891" width="30" alt="img">
 
 <img src="https://github.com/Modraxis/Discord-AutoMod/assets/117416934/28676d63-ddf8-40e8-9087-03f0ce3931d0" width="800" alt="img">
 
