@@ -6,7 +6,7 @@
 
 <br>
 </div>
-This repository provides a solution to obtain an Automod badge for your Discord bot. The Automod feature helps in moderating and managing Discord servers effectively.
+This repository provides a solution to obtain an Automod badge for your Discord bot.
 
 ## Table of Contents
 - [Setup](#setup)
@@ -40,7 +40,7 @@ To set up the Automod badge for your Discord bot, follow these steps:
 
 6. **Wait for Badge**: After completing the setup, allow at least 12 hours for the Automod badge to be granted.
 
-<div align = "center">
+<div align = "left">
     <img src="https://github.com/Modraxis/Discord-AutoMod/assets/117416934/8c109a7c-e831-4181-8f77-10e30f5120ed" width="400" alt="img">
 </div>
 
