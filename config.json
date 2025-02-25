@@ -1,7 +1,0 @@
-{
-    "prefix": "!",
-    "client": {
-        "TOKEN": "Your-Bot-Token",
-        "ID": "Your-Bot-ID"
-    }
-}
