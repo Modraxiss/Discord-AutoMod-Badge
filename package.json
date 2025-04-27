@@ -1,0 +1,26 @@
+{
+    "name": "discord-automod-badge",
+    "version": "1.0.0",
+    "description": "This code provides a solution to obtain an AutoMod Badge for discord bots.",
+    "author": "Basit",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Modraxiss/Discord-AutoMod-Badge.git"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^5.4.1",
+        "discord.js": "^14.19.1",
+        "dotenv": "^16.5.0",
+        "gradient-string": "^3.0.0"
+    },
+    "bugs": {
+        "url": "https://github.com/Modraxiss/Discord-AutoMod-Badge/issues"
+    },
+    "homepage": "https://github.com/Modraxiss/Discord-AutoMod-Badge#readme"
+}
